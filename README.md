@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @venustrinemars
-- 👀 I’m interested in ... A lot of things
-- 🌱 I’m currently learning ... Graphic and Web Design
-- 💞️ I’m looking to collaborate on ... Not sure yet
+- 👀 I’m interested in ... Coding, Astrology, Soap making, and Botany.
+- 🌱 I’m currently learning ... Graphic and Web Design.
+- 💞️ I’m looking to collaborate on ... Small business websites.
 - 📫 How to reach me ... maryam.knowles001@mymdc.net
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I'm left handed :D
+- ⚡ Fun fact: ... I'm left handed.
 
 <!---
 venustrinemars/venustrinemars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
